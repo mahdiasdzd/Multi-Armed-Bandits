@@ -20,3 +20,10 @@ In this stage the goal of DM is not choosing the best arm, while it’s a pure e
 
 Selecting an Arm: Investment decision In this stage after the experimentation, it is the time for DM to select an arm and invest on it. and observe a real reward. Reward at this stage has 2 signals on both profit and the V (which is the probability of state of interest) so observation of rewards will update the prior of both. Since in this stage is highly costly so we introduce a switching cost based on Manjari and Teneketzis (1996) and where they argued in every time the processor switches from one machine to another, a switching cost (which can be the cost of switching or switching delay) is incurred. The inclusion of switching cost is a realistic consideration for our setup because in the case of LFHI decisions it needs a huge amount of investment to select an arm and run it. Thus, when DM finds a better opportunity which has higher expected profit as reward in this stage she faces a high cost of switching or delay in switching.
 
+# Problem Solution:
+
+* The solution method focuses on minimizing loss and making optimal investment decisions.
+* Endogenously determined arms are developed within defined constraints.
+* BAI is used to rank theories and facilitate effective experiments.
+* Consideration of switching costs and budgetary constraints is crucial for optimizing investments.
+* Killing the arm strategy is employed to remove arms with low expected value, reducing waste in cognitive and resource resources.
